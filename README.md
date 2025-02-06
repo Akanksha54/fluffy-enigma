@@ -18,7 +18,7 @@ This project is a **Professional Background Remover** built using **HTML, Tailwi
 ## Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/background-remover.git
+   git clone https://github.com/Akanksha54/fluffy-enigma/
    cd background-remover
    ```
 2. Open `index.html` in your browser.
